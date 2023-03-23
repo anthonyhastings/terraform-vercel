@@ -79,5 +79,6 @@ While you will typically not want to destroy long-lived objects in a production 
  - [Input Variables](https://developer.hashicorp.com/terraform/language/values/variables)
  - [Protect Sensitive Input Variables](https://developer.hashicorp.com/terraform/tutorials/configuration-language/sensitive-variables)
  - [Running Terraform in Automation](https://developer.hashicorp.com/terraform/tutorials/automation/automate-terraform)
+ - [Backend Configuration](https://developer.hashicorp.com/terraform/language/settings/backends/configuration)
  - [Terraform Command: init](https://developer.hashicorp.com/terraform/cli/commands/init)
  - [Terraform Command: plan](https://developer.hashicorp.com/terraform/cli/commands/plan)
